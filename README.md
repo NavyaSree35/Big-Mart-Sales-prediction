@@ -12,7 +12,11 @@ The dataset used for this project contains historical sales data, including info
 
 ## Methodology
 
-#### Data Preprocessing: The dataset undergoes thorough preprocessing steps, including handling missing values, feature engineering, and encoding categorical variables.
-#### Model Training: XGBoost, a popular gradient boosting algorithm, is employed to train the predictive model using the preprocessed data.
-#### Model Evaluation: The trained model is evaluated using appropriate evaluation metrics to assess its accuracy and generalization performance.
-#### Prediction: Finally, the trained model is used to make predictions on the test set to estimate the sales of various products across different stores.
+#### Data Preprocessing: 
+        The dataset undergoes thorough preprocessing steps, including handling missing values, feature engineering, and encoding categorical variables.
+#### Model Training:
+        XGBoost, a popular gradient boosting algorithm, is employed to train the predictive model using the preprocessed data.
+#### Model Evaluation: 
+        The trained model is evaluated using appropriate evaluation metrics to assess its accuracy and generalization performance.
+#### Prediction:
+        Finally, the trained model is used to make predictions on the test set to estimate the sales of various products across different stores.
